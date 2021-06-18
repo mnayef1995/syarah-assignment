@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="label_gallery_message">Choose from gallery</string>
+    <string name="label_camera_message">Choose from camera</string>
+    <string name="title_done">Done</string>
+</resources>
